@@ -1,0 +1,11 @@
+1L:
+Test accuracy: 93.13%
+Test AUC: 96.04%
+
+2L:
+Test accuracy: 94.60%
+Test AUC: 98.45%
+
+PT:
+Test accuracy: 31.31%
+Test AUC: 61.18%
